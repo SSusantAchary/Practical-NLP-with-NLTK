@@ -1,14 +1,10 @@
 # Practical-Hands-On NLP-with-NLTK ⌨️ 🔥
 
-[![Unilicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/SSusantAchary/Practical-NLP-with-NLTK/blob/main/misc/logo.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="misc/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <img src="https://github.com/SSusantAchary/Practical-NLP-with-NLTK/blob/main/misc/nlp1.JPG" width="1000">
