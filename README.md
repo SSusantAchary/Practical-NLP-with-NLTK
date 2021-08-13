@@ -1,17 +1,17 @@
 # Practical-Hands-On NLP-with-NLTK ⌨️ 🔥
 
-[![Unlicense License][license-shield]][https://github.com/SSusantAchary/Practical-NLP-with-NLTK/blob/main/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/s-susant-achary-4793a847/]
+[![Unilicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/SSusantAchary/Practical-NLP-with-NLTK/blob/main/misc/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<img src="https://github.com/SSusantAchary/Practical-NLP-with-NLTK/misc/nlp1.JPG" width="1000">
+<img src="https://github.com/SSusantAchary/Practical-NLP-with-NLTK/blob/main/misc/nlp1.JPG" width="1000">
  
 These are the code examples that cover the following topics:
 
@@ -28,7 +28,7 @@ These are the code examples that cover the following topics:
 |9. WordNet|[View code](https://github.com/SSusantAchary/Practical-NLP-with-NLTK/blob/main/9-Day2-WordNet.ipynb)|
 |10. Text Classification|[View Code](https://github.com/SSusantAchary/Practical-NLP-with-NLTK/blob/main/10-Day2-Text-Classification.ipynb)|
 
-<img src="https://github.com/SSusantAchary/Practical-NLP-with-NLTK/misc/nlp.gif" width="720">
+<img src="https://github.com/SSusantAchary/Practical-NLP-with-NLTK/blob/main/misc/nlp.gif" width="720">
 
 ### Installation 🚀
 
